@@ -2,7 +2,6 @@
 
 
 
-I am using direnv to manage packages:
-https://github.com/direnv/direnv
+I am using autoenv to automate the package switching.
 
 
